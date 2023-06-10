@@ -1,6 +1,6 @@
 config:
-  info: "master01"
+  info: "master"
 eureka:
   instance:
-    instance-id: config-client
+    instance-id: config-client01
     prefer-ip-address: true
