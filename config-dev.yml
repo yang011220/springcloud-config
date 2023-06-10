@@ -1,2 +1,6 @@
 config:
   info: "master"
+eureka:
+  instance:
+    instance-id: config-client
+    prefer-ip-address: true
