@@ -1,5 +1,5 @@
 config:
-  info: "master"
+  info: "master01"
 eureka:
   instance:
     instance-id: config-client
